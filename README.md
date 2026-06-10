@@ -10,6 +10,8 @@
 
 Autosecure + phisher full main bot source code only for 30$ full setup with 1mnth vps and 1 year of domain .fun or .xyz is 45$
 
+#Trial Avilable
+
 ---
 
 ## Dashboard and Bot Management
